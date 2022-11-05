@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <p className='Head'>Кто вы?</p>
         <div className='ICh'>
-        <a  class="lake1" href="" title="" alt='Школьники' >
+        <a  class="lake1" href="http://localhost:3000/Test" title="" alt='Школьники' >
           <img src={logo} className='Img' /></a>
           <a class="lake2" href="" title="" alt='Студенты' >
         <img src={logo} className='Img'  /></a>
